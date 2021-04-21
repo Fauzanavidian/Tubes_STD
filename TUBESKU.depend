@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1608788292 source:d:\praktikum strukdat\tubesku\penulis.cpp
+	"penulis.h"
+
+1608787371 d:\praktikum strukdat\tubesku\penulis.h
+	<bits/stdc++.h>
+
+1608788711 source:d:\praktikum strukdat\tubesku\main.cpp
+	"penulis.h"
+
